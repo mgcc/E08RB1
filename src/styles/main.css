@@ -1,0 +1,31 @@
+
+.header {
+  height: 50px;
+  background-color: #1263CE;
+  color: white;
+  padding-left: 30px;
+  padding-top: 1px;
+}
+
+.sidebar {
+  width: 15%;
+  background-color: #D3D3D3;
+  float: left;
+}
+
+.main-content {
+  width: 60%;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: left;
+}
+
+.content {
+  margin-bottom: 20px;
+}
+
+.ads {
+  width: 20%;
+  float: left;
+  background-color: #D3D3D3;
+}
