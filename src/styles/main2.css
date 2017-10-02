@@ -1,0 +1,42 @@
+body {
+  background-color: #E0F7FA;
+}
+
+.header {
+  background-color: #004D40;
+  color: white;
+  padding-left:30;
+  padding-bottom: 5;
+}
+
+.sidebar-section {
+  background-color: white;
+  float: left;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  line-height: 2pc
+}
+
+
+.posts {
+  margin-top: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.post {
+  border-style: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+  background-color: white;
+  border-color: #E2E2E2;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.post .body {
+  color: #272727;
+}
